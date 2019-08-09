@@ -1,0 +1,29 @@
+{
+	"Breakfast":
+	[
+		{"name": "Buttermilk Pancakes",
+		 "price": "$ 12.00",
+		 "calories": "400"
+		 },
+		 
+		 {"name": "Three Egg Omelet",
+		 "price": "$ 12.00",
+		 "calories": "900"
+		 },
+	
+		{"name": "Hot Oatmeal",
+		 "price": "$ 9.00",
+		 "calories": "200"
+		 },
+		
+		{"name": "French Toast",
+		 "price": "$ 11.00",
+		 "calories": "400"
+		 },
+		
+		{"name": "Fresh Fruit Plate",
+		 "price": "$ 12.00",
+		 "calories": "250"
+		 }	
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"Dinner":
+	[
+		{"name": "Soup of the Day",
+		 "price": "$ 10.00",
+		 "calories": "350"
+		},
+		
+		{"name": "Escargots",
+		 "price": "$ 16.00",
+		 "calories": "550"
+		},
+		
+		{"name": "Smoked Duck Risotto",
+		 "price": "$ 28.00",
+		 "calories": "960"
+		},
+		
+		{"name": "Stone House Paella",
+		 "price": "$ 36.00",
+		 "calories": "1200"
+		},
+		
+		{"name": "14oz. Grilled Ribeye",
+		 "price": "$ 48.00",
+		 "calories": "1250"
+		},
+		
+		{"name": "Rack of Lamb",
+		 "price": "$ 46.00",
+		 "calories": "1250"
+		}		
+	]
+}
